@@ -2,5 +2,7 @@
     <string name="app_name">GeoApp</string>
     <string name="texto_pregunta">la peninsula de yucatan se encuntra al norte de mexico</string>
     <string name="boton_cierto">Cierto</string>
-    <string name="boton_falso">falso</string>
+    <string name="boton_falso">Falso</string>
+    <string name="texto_correcto">¡Correcto!</string>
+    <string name="texto_incorrecto">¡Incorrecto!</string>
 </resources>
